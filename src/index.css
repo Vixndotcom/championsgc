@@ -43,9 +43,15 @@
 }
 
   /* navbar/////////////////////////// */
-
-
-  
+.hero-gap{
+  height: 20px;
+  background-color: #591784;
+}
+@media (max-width: 380px) {
+.hero-gap{
+  height: 80px;
+}
+}
 /* src/AnimatedNav.css */
 /* src/Navbar.css */
 
